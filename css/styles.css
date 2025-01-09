@@ -93,9 +93,10 @@
     text-align: center;
   }
   
-  video {
+  iframe {
     width: 100%;
     max-width: 800px;
+    height: 450px;
     border: 2px solid #ccc;
     border-radius: 8px;
   }

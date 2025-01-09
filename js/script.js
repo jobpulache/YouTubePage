@@ -1,6 +1,5 @@
-function playVideo(videoSrc) {
+function playVideo(videoUrl) {
     const videoPlayer = document.getElementById("videoPlayer");
-    videoPlayer.src = videoSrc;
-    videoPlayer.play();
+    videoPlayer.src = videoUrl;
   }
   
